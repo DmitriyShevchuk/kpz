@@ -1,0 +1,15 @@
+Inventory report #1
+
+Product name: Apple
+Price per one kg: 5,50 euro's
+Amount products: 100 kg
+
+Product name: Mango
+Price per one kg: 7,25 dollar's
+Amount products: 50 kg
+
+Product name: Iphone 16 Pro Max
+Price per one item: 1300,0 dollar's
+Amount products: 1 item
+
+Last delivery - 01.03.2025 17:33

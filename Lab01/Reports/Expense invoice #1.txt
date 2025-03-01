@@ -1,0 +1,7 @@
+Expense invoice #1
+
+Product name: Iphone 16 Pro Max
+Price per one item: 1300,0 dollar's
+Amount products: 5 item
+
+Last delivery - 01.03.2025 17:33
